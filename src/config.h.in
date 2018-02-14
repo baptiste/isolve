@@ -1,0 +1,7 @@
+#ifndef isolve__config__h
+#define isolve__config__h
+
+// value on next line may be changed between #undef and #define by the configure script
+@ARMA_LAPACK@
+
+#endif

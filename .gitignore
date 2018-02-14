@@ -32,3 +32,11 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 .Rproj.user
+
+# Object files from compilation
+src/*.o
+src/*.so
+
+# autoconf
+config.log
+config.status
